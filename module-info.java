@@ -1,0 +1,2 @@
+module Proect1Git {
+}
