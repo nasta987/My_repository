@@ -7,6 +7,7 @@ public class ProjectGit {
 		b=3;
 		int c=a+b;
 		String v = "g"+"i"+"t";
+		String w = "h"+"e"+"l"+"p";
 		System.out.println ("v = " +v);
 		System.out.println ("c = " +c);
 		int z = c-a+b*2;
